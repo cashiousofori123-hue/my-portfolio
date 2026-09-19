@@ -26,10 +26,10 @@ export function ContactSection() {
           <p className="text-xs font-semibold uppercase tracking-wide text-muted-foreground">
             Business — Call / WhatsApp
           </p>
-          <p className="mt-1 text-lg font-bold">0554068969</p>
+          <p className="mt-1 text-lg font-bold">0554068968</p>
           <div className="mt-4 flex gap-3">
             <a
-              href="tel:+233554068968"
+              href="tel:+233554068969"
               aria-label="Call business line"
               className="flex h-14 w-14 items-center justify-center rounded-xl text-white shadow-md transition-transform hover:scale-105"
               style={{ backgroundColor: "var(--brand)" }}
@@ -37,7 +37,7 @@ export function ContactSection() {
               <Phone className="h-7 w-7" />
             </a>
             <a
-              href="https://wa.me/233554068968"
+              href="https://wa.me/233554068969"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="WhatsApp business line"

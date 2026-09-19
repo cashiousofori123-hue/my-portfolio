@@ -26,7 +26,7 @@ export function ContactSection() {
           <p className="text-xs font-semibold uppercase tracking-wide text-muted-foreground">
             Business — Call / WhatsApp
           </p>
-          <p className="mt-1 text-lg font-bold">0554068968</p>
+          <p className="mt-1 text-lg font-bold">0554068969</p>
           <div className="mt-4 flex gap-3">
             <a
               href="tel:+233554068969"
